@@ -1,5 +1,7 @@
 # Learning Data Science
 
+https://learningds.org/
+
 **By [Sam Lau][sam], [Joey Gonzalez][joey], and [Deb Nolan][deb].**
 
 <img alt="Front cover of textbook" src="content/book-cover.png" height="400px">
